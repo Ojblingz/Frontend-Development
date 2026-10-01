@@ -1,0 +1,9 @@
+ body {font-family: Arial, Helvetivca, san-serif;
+            background-color: rgb(235, 86, 111); 
+            color: black; 
+            text-align: left;
+        }<button class="btn btn-green">Login</button>
+    <button class="btn btn-red">Sign Up</button>
+    <button class="btn btn-yellow">Learn More</button>
+
+    

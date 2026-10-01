@@ -1,0 +1,77 @@
+ body {
+    
+           background-color: lightblue;
+            font-family: Arial, sans-serif;
+        }
+   .btn-login {
+            background-color: green;
+            color: white;
+            border: none;
+            height: 30px;
+            width: 100px;
+            border-radius: 16px;
+            cursor: pointer;
+            transition: 0.3s ease;
+        }
+
+        .btn-sign {
+            background-color: red;
+            color: white;
+             border: none;
+            height: 30px;
+            width: 100px;
+            border-radius: 16px;
+            cursor: pointer;
+            transition: 0.3s ease;
+        }
+
+        .btn-learn {
+            background-color: yellow;
+            color: black;
+             border: none;
+            height: 30px;
+            width: 100px;
+            border-radius: 16px;
+            cursor: pointer;
+            transition: 0.3s ease;
+        }
+
+        .btn-login:hover {
+            background-color: darkgreen;
+        }
+
+        .btn-sign:hover {
+            background-color: darkred;
+        }
+
+        .btn-learn:hover {
+            background-color: goldenrod;
+            color: white;
+        }
+
+        h1 {
+            color:chocolate;
+        }
+
+        p {
+            color:royalblue;
+        }
+
+        div {
+            color:darkblue
+        }
+
+    .title {
+        color:coral
+    }
+
+    .box {
+      width: 200px;
+      height: 200px;
+      background-color: black;
+      border-radius: 10px;
+      background-image: linear-gradient(to top left, blue, blue, black, black)
+    }
+
+
+ 
